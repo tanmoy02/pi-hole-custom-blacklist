@@ -1,1 +1,2 @@
 vidcrunch.com
+cdn.vidcrunch.com
